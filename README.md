@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Simon's github stats](https://github-readme-stats.vercel.app/api?username=wardsimon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wardsimon/wardsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
